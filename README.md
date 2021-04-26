@@ -1,2 +1,2 @@
 # django-test
-Django based repository to learn tests with pytest
+Django based repository to learn tests with librarys
